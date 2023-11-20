@@ -1,0 +1,16 @@
+{
+    "object":[
+        {
+            "name":"dinesh",
+            "age":21
+        },
+        {
+            "name":"pradeep",
+            "age":23
+        },
+        {
+            "name":"ponselvi",
+            "age":21
+        }
+    ]
+}
